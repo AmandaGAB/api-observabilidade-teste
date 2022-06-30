@@ -1,5 +1,6 @@
 Observabilidade + Ferramentas
 
+#Para acessar o documento completo com imagens acesse o link: https://docs.google.com/document/d/1XobSfJv1Ona7zp3o10xaa4XWT_YeUmBHktMFldLXWp0/edit?usp=sharing
 
 Clone a api de teste:
 
