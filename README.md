@@ -1,7 +1,8 @@
 Observabilidade + Ferramentas
 
 #Para acessar o documento completo com imagens acesse o link: https://docs.google.com/document/d/1XobSfJv1Ona7zp3o10xaa4XWT_YeUmBHktMFldLXWp0/edit?usp=sharing
-#Para acessar a apresentação acesso o link: https://www.canva.com/design/DAFEGhEHnl8/DwIpES4T3E6yDQIglLhJrg/edit?utm_content=DAFEGhEHnl8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+#Para acessar a apresentação acesse o link: https://www.canva.com/design/DAFEGhEHnl8/DwIpES4T3E6yDQIglLhJrg/edit?utm_content=DAFEGhEHnl8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Clone a api de teste:
 
 https://github.com/AmandaGAB/api-observabilidade-teste
